@@ -11,3 +11,6 @@ adding purpose
 Deployment text
 
 ## How to Contribute
+
+## Copyright
+copright notice
