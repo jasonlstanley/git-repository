@@ -11,6 +11,6 @@ adding purpose
 Deployment text
 
 ## How to Contribute
-
+Please fork this repository then issue pull request for review
 ## Copyright
-copright notice
+icopright notice
